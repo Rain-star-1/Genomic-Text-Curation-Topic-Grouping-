@@ -1,0 +1,524 @@
+[
+  {
+    "text_id": "T1",
+    "title": "Translating Alzheimer's disease-associated polymorphisms into functional candidates: a survey of IGAP genes and SNPs",
+    "variant": null,
+    "gene": "CELF1",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "For (2), the IGAP SNPs in **CELF1** and **MS4A6A** were associated with expression of their neighboring genes, **MYBPC3** and **MS4A6A**, respectively, in blood."
+  },
+  {
+    "text_id": "T2",
+    "title": "Genetic heterogeneity of Alzheimer's disease in subjects with and without hypertension",
+    "variant": null,
+    "gene": null,
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T3",
+    "title": "Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer's disease risk",
+    "variant": null,
+    "gene": null,
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T4",
+    "title": "Genetic meta-analysis of diagnosed Alzheimer's disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing",
+    "variant": null,
+    "gene": "IQCK",
+    "phenotype": "the most prevalent dementia",
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T5",
+    "title": "Identification of genetic heterogeneity of Alzheimer's disease across age",
+    "variant": null,
+    "gene": "APOE",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T6",
+    "title": "Dissecting the genetic relationship between cardiovascular risk factors and Alzheimer's disease",
+    "variant": null,
+    "gene": "APOE",
+    "phenotype": "diabetes",
+    "relation": "associated with",
+    "evidence_span": "Using large genome-wide association studies and validated tools to quantify genetic overlap, we systematically identified single nucleotide polymorphisms (SNPs) jointly associated with AD and one or more CV-associated RFs, namely **body mass index (BMI), type 2 diabetes (T2D), coronary artery disease (CAD), waist hip ratio (WHR), total cholesterol (TC), triglycerides (TG), low-density (LDL) and high-density lipoprotein (HDL)**."
+  },
+  {
+    "text_id": "T7",
+    "title": "Shared genetic architecture between metabolic traits and Alzheimer's disease: a large-scale genome-wide cross-trait analysis",
+    "variant": null,
+    "gene": "HDL",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "Among all the metabolic traits, **fasting glucose**, **fasting insulin** and **HDL** were found to be genetically associated with AD."
+  },
+  {
+    "text_id": "T8",
+    "title": "Genetic Overlap Between Alzheimer's Disease and Bipolar Disorder Implicates the MARK2 and VAC14 Genes",
+    "variant": "rs10792421",
+    "gene": "BIP",
+    "phenotype": "bipolar disorder",
+    "relation": "associated with",
+    "evidence_span": "Further, we identified **two novel loci jointly associated with AD and BIP** implicating the **MARK2** gene (lead SNP rs10792421, conjunctional FDR = 0.030, same direction of effect) and the **VAC14** gene (lead SNP rs11649476, conjunctional FDR = 0.022, opposite direction of effect)."
+  },
+  {
+    "text_id": "T9",
+    "title": "Genome-wide analysis of genetic predisposition to Alzheimer's disease and related sex disparities",
+    "variant": null,
+    "gene": null,
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T10",
+    "title": "Genetic and lifestyle risk factors for MRI-defined brain infarcts in a population-based setting",
+    "variant": null,
+    "gene": "SSBI",
+    "phenotype": "MRI-defined brain infarcts",
+    "relation": "associated with",
+    "evidence_span": "GRS of BP traits were associated with BI and SSBI ($p \\leq 0.0022$), without indication of directional pleiotropy."
+  },
+  {
+    "text_id": "T11",
+    "title": "APOE Promoter Polymorphism-219T/G is an Effect Modifier of the Influence of APOE $\\varepsilon 4$ on Alzheimer's Disease Risk in a Multiracial Sample",
+    "variant": "rs405509",
+    "gene": "APOE",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": "Among $\\varepsilon 4/\\varepsilon 4$ individuals, AD risk increased substantially in a dose-dependent manner with the number of **APOE promoter SNP rs405509 T alleles** in EastAs (TT: OR (odds ratio) = 27.02, $p = 8.80 \\times 10^{-94}$; GT: OR = 15.87, $p = 2.62 \\times 10^{-9}$) and EuroAs (TT: OR = 18.13, $p = 2.69 \\times 10^{-108}$; GT: OR = 12.63, $p = 3.44 \\times 10^{-64}$), and rs405509-T homozygotes had a younger onset and more severe cortical atrophy than those with G-allele."
+  },
+  {
+    "text_id": "T12",
+    "title": "Sex differences in the genetic predictors of Alzheimer's pathology",
+    "variant": "rs34331204",
+    "gene": "APOE",
+    "phenotype": "male-specific protection from tau pathology",
+    "relation": "associated with",
+    "evidence_span": "Outside of the **APOE** region, one locus on **chromosome 7 (rs34331204)** showed a sex-specific association with **neurofibrillary tangles** among **males** ($P = 2.5 \\times 10^{-8}$) but not females ($P = 0.85$, sex-interaction $P = 2.9 \\times 10^{-4}$)."
+  },
+  {
+    "text_id": "T13",
+    "title": "GWAS on family history of Alzheimer's disease",
+    "variant": null,
+    "gene": "ADAM10",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T14",
+    "title": "Hidden heterogeneity in Alzheimer's disease: Insights from genetic association studies and other analyses",
+    "variant": null,
+    "gene": "FHS",
+    "phenotype": "and molecular biological studies of this health disorder",
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T15",
+    "title": "CDK5RAP2 gene and tau pathophysiology in late-onset sporadic Alzheimer's disease",
+    "variant": "rs10984186",
+    "gene": "CDK5RAP2",
+    "phenotype": "single-nucleotide polymorphisms only account for a small fraction of the genetic variance in this disease",
+    "relation": "associated with",
+    "evidence_span": "**Results**: The **rs10984186** variant is associated with an **increased risk** of developing AD and with a **higher CDK5RAP2 mRNA prevalence in the hippocampus**."
+  },
+  {
+    "text_id": "T16",
+    "title": "Genome-wide association study of Alzheimer's disease endophenotypes at prediagnosis stages",
+    "variant": null,
+    "gene": "SRRM4",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T17",
+    "title": "Sex-specific genetic predictors of Alzheimer's disease biomarkers",
+    "variant": "rs316341",
+    "gene": "PFC",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "Higher levels of expression of **SERPINB1, SERPINB6, and SERPINB9** in PFC was associated with higher levels of amyloidosis among **females** (corrected $p$ values $< 0.02$) but not males ($p > 0.38$)."
+  },
+  {
+    "text_id": "T18",
+    "title": "Genome-wide pleiotropy analysis of neuropathological traits related to Alzheimer's disease",
+    "variant": "rs34487851",
+    "gene": "NFT",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "**Results**: Genome-wide significant pleiotropic associations were observed for the joint model of **NP and NFT** ($\\text{NP} + \\text{NFT}$) with the single-nucleotide polymorphism (SNP) **rs34487851** upstream of **C2orf40** (alias **ECRG4**, $P = 2.4 \\times 10^{-8}$) and for the joint model of **NFT and CAA** ($\\text{NFT} + \\text{CAA}$) with the **HDAC9** SNP **rs79524815** ($P = 1.1 \\times 10^{-8}$)."
+  },
+  {
+    "text_id": "T19",
+    "title": "Selective Genetic Overlap Between Amyotrophic Lateral Sclerosis and Diseases of the Frontotemporal Dementia Spectrum",
+    "variant": "rs13302855",
+    "gene": "ALS",
+    "phenotype": "Amyotrophic lateral sclerosis",
+    "relation": null,
+    "evidence_span": "**Importance**: **Amyotrophic lateral sclerosis (ALS)** is a progressive neurodegenerative disorder characterized by loss of upper and lower motor neurons."
+  },
+  {
+    "text_id": "T20",
+    "title": "The GWAS Risk Genes for Depression May Be Actively Involved in Alzheimer's Disease",
+    "variant": null,
+    "gene": "MDD",
+    "phenotype": "Depression",
+    "relation": "associated with",
+    "evidence_span": "Taken together, our results showed that MDD risk genes might play an **active role in AD pathology** and supported the notion that depression might be the \"common cold\" of psychiatry."
+  },
+  {
+    "text_id": "T21",
+    "title": "Genetic Study of White Matter Integrity in UK Biobank ($N=8448$) and the Overlap With Stroke, Depression, and Dementia",
+    "variant": "rs13164785",
+    "gene": "WMHV",
+    "phenotype": "vascular dementia",
+    "relation": "associated with",
+    "evidence_span": "In polygenic risk score analysis, FA, MD, and WMHV were significantly associated with **lacunar stroke**, MD with **major depressive disorder**, and WMHV with **Alzheimer disease**."
+  },
+  {
+    "text_id": "T22",
+    "title": "Genetic architecture of sporadic frontotemporal dementia and overlap with Alzheimer's and Parkinson's diseases",
+    "variant": "rs6857",
+    "gene": "FTD",
+    "phenotype": "sporadic frontotemporal dementia",
+    "relation": "associated with",
+    "evidence_span": "**Background**: Clinical, pathological and genetic overlap between **sporadic frontotemporal dementia (FTD)**, **Alzheimer's disease (AD)** and **Parkinson's disease (PD)** has been suggested; however, the relationship between these disorders is still not well understood."
+  },
+  {
+    "text_id": "T23",
+    "title": "Single-nucleotide polymorphisms are associated with cognitive decline at Alzheimer's disease conversion within mild cognitive impairment patients",
+    "variant": null,
+    "gene": "ADNI",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T24",
+    "title": "Rare coding variants in PLCG2, ABI3, and TREM2 implicate microglial-mediated innate immunity in Alzheimer's disease",
+    "variant": "rs72824905",
+    "gene": "PLCG2",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "We observed **three new genome-wide significant nonsynonymous variants** associated with Alzheimer's disease: a **protective variant** in **PLCG2** (rs72824905: p.Pro522Arg, $P = 5.38 \\times 10^{-10}$, OR = 0.68, $\\text{MAF}_{\\text{cases}} = 0.0059$, $\\text{MAF}_{\\text{controls}} = 0.0093$), a **risk variant** in **ABI3** (rs616338: p.Ser209Phe, $P = 4.56 \\times 10^{-10}$, OR = 1.43, $\\text{MAF}_{\\text{cases}} = 0.011$, $\\text{MAF}_{\\text{controls}} = 0.008$), and a **new genome-wide significant variant** in **TREM2** (rs143332484: p.Arg62His, $P = 1.55 \\times 10^{-14}$, OR = 1.67, $\\text{MAF}_{\\text{cases}} = 0.0143$, $\\text{MAF}_{\\text{controls}} = 0.0089$), a known susceptibility gene for Alzheimer's disease."
+  },
+  {
+    "text_id": "T25",
+    "title": "Genetic assessment of age-associated Alzheimer disease risk: Development and validation of a polygenic hazard score",
+    "variant": null,
+    "gene": "APOE",
+    "phenotype": "Identifying individuals at risk for developing Alzheimer disease",
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T26",
+    "title": "Genome-wide association study identifies four novel loci associated with Alzheimer's endophenotypes and disease modifiers",
+    "variant": "rs316341",
+    "gene": "GLIS1",
+    "phenotype": "Endophenotypes also contain additional information helpful for identifying variants and genes associated with other aspects of disease",
+    "relation": "associated with",
+    "evidence_span": "Endophenotypes also contain additional information helpful for identifying variants and genes associated with other aspects of disease, such as rate of progression or onset, and provide context to interpret the results from genome-wide association studies (GWAS)."
+  },
+  {
+    "text_id": "T27",
+    "title": "Investigating the genetic relationship between Alzheimer's disease and cancer using GWAS summary statistics",
+    "variant": null,
+    "gene": "GAME",
+    "phenotype": "and cancer",
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T28",
+    "title": "Two novel loci, COBL and SLC10A2, for Alzheimer's disease in African Americans",
+    "variant": "rs112404845",
+    "gene": "APOE",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T29",
+    "title": "Genome-wide, high-content siRNA screening identifies the Alzheimer's genetic risk factor FERMT2 as a major modulator of APP metabolism",
+    "variant": null,
+    "gene": "APP",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T30",
+    "title": "Transethnic genome-wide scan identifies novel Alzheimer's disease loci",
+    "variant": null,
+    "gene": "GWS",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T31",
+    "title": "Genetic Comparison of Symptomatic and Asymptomatic Persons With Alzheimer Disease Neuropathology",
+    "variant": null,
+    "gene": "ADGC",
+    "phenotype": "persons with Alzheimer disease",
+    "relation": "associated with",
+    "evidence_span": "**Objective**: The objective was to determine whether **symptomatic** and **asymptomatic** persons with Alzheimer disease (AD) neuropathology have different allele counts for single-nucleotide polymorphisms that have been associated with clinical late-onset AD."
+  },
+  {
+    "text_id": "T32",
+    "title": "Implication of the APP Gene in Intellectual Abilities",
+    "variant": "rs2830077",
+    "gene": "ARC",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T33",
+    "title": "Linking Alzheimer's disease and type 2 diabetes: Novel shared susceptibility genes detected by cFDR approach",
+    "variant": "rs6982393",
+    "gene": "T2D",
+    "phenotype": "diabetes",
+    "relation": "associated with",
+    "evidence_span": "**Background**: Both **type 2 diabetes (T2D)** and Alzheimer's disease (AD) occur commonly in the aging populations and T2D has been considered as an important risk factor for AD."
+  },
+  {
+    "text_id": "T34",
+    "title": "Gene-based association study of genes linked to hippocampal sclerosis of aging neuropathology: GRN, TMEM106B, ABCC9, and KCNMB2",
+    "variant": null,
+    "gene": "GRN",
+    "phenotype": "The HS-Aging pathology",
+    "relation": "associated with",
+    "evidence_span": "To learn more about genetic risk of HS-Aging pathology, we tested gene-based associations of the **GRN, TMEM106B, ABCC9, and KCNMB2** genes, which were reported to be associated with HS-Aging pathology in previous studies."
+  },
+  {
+    "text_id": "T35",
+    "title": "Discovery of gene-gene interactions across multiple independent data sets of late onset Alzheimer disease from the Alzheimer Disease Genetics Consortium",
+    "variant": null,
+    "gene": "SIRT1",
+    "phenotype": "Late-onset Alzheimer disease",
+    "relation": "related to",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T36",
+    "title": "Alzheimer's Disease Risk Polymorphisms Regulate Gene Expression in the ZCWPW1 and the CELF1 Loci",
+    "variant": "rs1476679",
+    "gene": "PILRB",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "We found a significant eQTL between **rs1476679** and **PILRB** and **GATS**, which occurs within the **ZCWPW1** locus."
+  },
+  {
+    "text_id": "T37",
+    "title": "Association Between Genetic Traits for Immune-Mediated Diseases and Alzheimer Disease",
+    "variant": "rs2516049",
+    "gene": "HLA",
+    "phenotype": "Late-onset Alzheimer disease",
+    "relation": "associated with",
+    "evidence_span": "Of these, **rs2516049** (closest gene **HLA-DRB5**; conjunction false discovery rate $P = .04$ for AD and psoriasis, $5.37 \\times 10^{-5}$ for AD, and $6.03 \\times 10^{-15}$ for psoriasis) and **rs12570088** (closest gene **IPMK**; conjunction false discovery rate $P = .009$ for AD and Crohn disease, $P = 5.73 \\times 10^{-6}$ for AD, and $6.57 \\times 10^{-5}$ for Crohn disease) demonstrated the same direction of allelic effect between AD and the immune-mediated diseases."
+  },
+  {
+    "text_id": "T38",
+    "title": "Rare Functional Variant in TM2D3 is Associated with Late-Onset Alzheimer's Disease",
+    "variant": null,
+    "gene": "CHARGE",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T39",
+    "title": "Genetic risk factors for the posterior cortical atrophy variant of Alzheimer's disease",
+    "variant": "rs76854344",
+    "gene": "PCA",
+    "phenotype": null,
+    "relation": "related to",
+    "evidence_span": "**Discussion**: We provide evidence for **genetic risk factors specifically related to PCA**."
+  },
+  {
+    "text_id": "T40",
+    "title": "Variants in ACPP are associated with cerebrospinal fluid Prostatic Acid Phosphatase levels",
+    "variant": null,
+    "gene": "PAP",
+    "phenotype": "our results have important implications in brain health such as cancer and other brain diseases including neurodegenerative diseases",
+    "relation": null,
+    "evidence_span": "**Conclusions**: Given PAP's expression in the brain and its role as a cell-growth regulator and tumor suppressor, our results have important implications in brain health such as cancer and other brain diseases including neurodegenerative diseases (e.g., Alzheimer's disease and Parkinson's disease) and mental health (e.g., anxiety, depression, and schizophrenia)."
+  },
+  {
+    "text_id": "T41",
+    "title": "Variants in CCL16 are associated with blood plasma and cerebrospinal fluid CCL16 protein levels",
+    "variant": null,
+    "gene": "CCL16",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "**Results**: We identify **10 SNPs associated with increased CCL16 protein levels in both biological fluids**."
+  },
+  {
+    "text_id": "T42",
+    "title": "Novel genetic loci underlying human intracranial volume identified through genome-wide association",
+    "variant": null,
+    "gene": "PI3K",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "Variants for intracranial volume were also related to **childhood and adult cognitive function**, and **Parkinson's disease**, and were enriched near genes involved in **growth pathways**, including **PI3K-AKT signaling**."
+  },
+  {
+    "text_id": "T43",
+    "title": "A novel Alzheimer disease locus located near the gene encoding tau protein",
+    "variant": "rs2732703",
+    "gene": "APOE",
+    "phenotype": "the most significant genetic risk factor for Alzheimer disease",
+    "relation": "associated with",
+    "evidence_span": "**Abstract**: **APOE $\\varepsilon 4$**, the most significant genetic risk factor for Alzheimer disease (AD), may mask effects of other loci."
+  },
+  {
+    "text_id": "T44",
+    "title": "Age-dependent effects of APOE $\\varepsilon 4$ in preclinical Alzheimer's disease",
+    "variant": null,
+    "gene": "APOE",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": null
+  },
+  {
+    "text_id": "T45",
+    "title": "A potential endophenotype for Alzheimer's disease: cerebrospinal fluid clusterin",
+    "variant": null,
+    "gene": "CLU",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "**CSF, but not plasma, CLU levels were significantly associated with AD status** and CSF **tau/amyloid-beta ratio**, and highly correlated with CSF **apolipoprotein E (APOE) levels**."
+  },
+  {
+    "text_id": "T46",
+    "title": "Genome-wide association study of prolactin levels in blood plasma and cerebrospinal fluid",
+    "variant": null,
+    "gene": "METAL",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T47",
+    "title": "Chitinase-3-like 1 protein (CHI3L1) locus influences cerebrospinal fluid levels of YKL-40",
+    "variant": null,
+    "gene": "CHI3L1",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "We used studentized residuals from a linear regression model of the log-transformed, standardized protein levels and the additive reference allele counts from the most significant locus to adjust YKL-40 values and tested the differences in correlations with CSF Tau/$A\\beta_{42}$ ratio, $A\\beta_{42}$, tau, and $ptau_{181}$. **Results**: We found that genetic variants on the **CHI3L1 locus** were significantly associated with **CSF YKL-40 levels**, but not AD risk, age at onset, or disease progression."
+  },
+  {
+    "text_id": "T48",
+    "title": "Shared genetic etiology of Alzheimer's disease and cardiovascular diseases",
+    "variant": "rs79524815",
+    "gene": "CVD",
+    "phenotype": "and cardiovascular diseases",
+    "relation": null,
+    "evidence_span": "**Abstract**: Alzheimer's disease (AD) and cardiovascular diseases (CVDs) are both common disorders in the elderly, and **AD and CVDs share common risk factors**."
+  },
+  {
+    "text_id": "T49",
+    "title": "Genetic and non-genetic factors associated with white matter hyperintensity burden in community-dwelling older adults",
+    "variant": "rs1420790",
+    "gene": "WMH",
+    "phenotype": "cerebral small vessel disease",
+    "relation": "associated with",
+    "evidence_span": "**Abstract**: **White matter hyperintensities (WMH)**, visible on brain MRI, are a common finding in older individuals and an indicator of **cerebral small vessel disease (SVD)**."
+  },
+  {
+    "text_id": "T50",
+    "title": "Whole-genome sequencing reveals new rare coding variants in $CD33$ and $TREM2$ associated with Alzheimer's disease",
+    "variant": "rs12458421",
+    "gene": "WGS",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "We identified a novel **rare missense variant in $CD33$ (p.Arg34His, rs12458421)** associated with a decreased risk of AD ($\\text{OR} = 0.58, P = 2.4 \\times 10^{-4}$)."
+  },
+  {
+    "text_id": "T51",
+    "title": "Investigation of the role of APOE in the genetic architecture of Parkinson's disease and Alzheimer's disease",
+    "variant": null,
+    "gene": "APOE",
+    "phenotype": "This highlights the complexity of genetic overlap in neurodegenerative diseases",
+    "relation": "associated with",
+    "evidence_span": "Specifically focusing on the APOE region, we found that the APOE $\\varepsilon 4$ allele was significantly associated with **decreased risk for PD** in the total sample ($\\text{OR} = 0.92, P = 1.2 \\times 10^{-4}$)."
+  },
+  {
+    "text_id": "T52",
+    "title": "Novel loci for Alzheimer's disease defined by a genome-wide association study of neuropathological features",
+    "variant": "rs2019904",
+    "gene": "NFT",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "We identified **two novel genome-wide significant loci** for **NFT burden**: **rs2019904** near **GLT8D2** ($P = 2.4 \\times 10^{-8}$) and **rs7727376** near **CLU** ($P = 3.6 \\times 10^{-8}$)."
+  },
+  {
+    "text_id": "T53",
+    "title": "Genetic variants in TOMM40 modify the effect of APOE on the age of Alzheimer's disease onset",
+    "variant": "rs10524523",
+    "gene": "APOE",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "A common variant, **rs10524523**, in the adjacent **TOMM40** gene has been associated with LOAD AOO."
+  },
+  {
+    "text_id": "T54",
+    "title": "GWAS identifies a novel locus in SHARPIN associated with white matter hyperintensity volume",
+    "variant": "rs9468383",
+    "gene": "WMH",
+    "phenotype": "are markers of cerebral small vessel disease",
+    "relation": "associated with",
+    "evidence_span": "**Abstract**: **White matter hyperintensities (WMH)**, visible on MRI, are markers of cerebral small vessel disease (SVD) and are associated with stroke and cognitive decline."
+  },
+  {
+    "text_id": "T55",
+    "title": "Genetic analysis of autopsy-confirmed Alzheimer's disease identifies **PTK2B** and **NBEAL1** as novel susceptibility loci",
+    "variant": "rs11883395",
+    "gene": "ADGC",
+    "phenotype": null,
+    "relation": "linked to",
+    "evidence_span": null
+  },
+  {
+    "text_id": "T56",
+    "title": "Genome-wide association study of blood and cerebrospinal fluid total tau levels in a multi-cohort study",
+    "variant": "rs11136000",
+    "gene": "MAPT",
+    "phenotype": null,
+    "relation": null,
+    "evidence_span": "For **CSF t-tau**, we confirmed the established association near **MAPT** (best SNP **rs11136000**, $P = 1.2 \\times 10^{-19}$) and identified a **novel genome-wide significant locus** at **rs76854344** near **CNTNAP5** ($P = 2.4 \\times 10^{-8}$)."
+  },
+  {
+    "text_id": "T57",
+    "title": "Genetic variants in $APOE/TOMM40$ and **$BCHE$** are associated with multiple brain imaging and cognitive phenotypes in a multi-ethnic cohort",
+    "variant": null,
+    "gene": "APOE",
+    "phenotype": null,
+    "relation": "associated with",
+    "evidence_span": "**Abstract**: The **APOE** gene is the strongest genetic factor for Alzheimer's disease (AD) and has been associated with various brain imaging and cognitive traits, often referred to as endophenotypes."
+  },
+  {
+    "text_id": "T58",
+    "title": "Genome-wide association study of $\\text{A}\\beta_{42}/\\text{A}\\beta_{40}$ ratio in Alzheimer's disease",
+    "variant": "rs78564171",
+    "gene": "TMEM106B",
+    "phenotype": "frontotemporal dementia",
+    "relation": "associated with",
+    "evidence_span": "**TMEM106B** is a known risk locus for **frontotemporal dementia (FTD)** and has been associated with lysosomal function."
+  }
+]
