@@ -53,14 +53,14 @@ To understand common themes across the publications, we applied two unsupervised
   - Polygenic risk & population studies  
 
 **Plot:**  
-- `kmeans_inertia.png`
+<img width="601" height="448" alt="image" src="https://github.com/user-attachments/assets/662161a9-4b20-4b06-ab79-6443faefdd73" />
 
 ### **(2) TF-IDF + NMF (Non-negative Matrix Factorization)**
 NMF tends to give cleaner, more interpretable topics.  
 Top keywords for each topic were extracted and interpreted.
 
 **Plot:**  
-- `nmf_topics.png`
+<img width="583" height="455" alt="image" src="https://github.com/user-attachments/assets/bd0fdbdd-594b-43ef-b06f-9362e47335dd" />
 
 These results help summarize the research landscape in a simple way.
 
